@@ -1,8 +1,6 @@
 ### Olá! my name is italo 👋
 
- Seja muito bem-vindo a meu github, aqui vou p,osta todos os meus trabalhos que estão em constante desenvolvimento.
-
-Here are some ideas to get you started:
+ Seja muito bem-vindo a meu mundo, aqui vou posta todos os meus trabalhos que estão em constante desenvolvimento.
 
 - 🔭 I am currently looking for a new job
 - 🌱 Always looking for new programming languages
@@ -30,5 +28,6 @@ Linguagem de marcação que tenho mais capacidade
 
 <div>
  <a href="https://www.linkedin.com/in/luiz-italo-872807203/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+ <a href="mailto:luiz.italonunes25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<!--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-italo-872807203/) -->
+
