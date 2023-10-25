@@ -2,7 +2,7 @@
 
  Seja muito bem-vindo a meu mundo, aqui vou posta todos os meus trabalhos que estão em constante desenvolvimento.
 
-
+--🧠 Sempre a procura de solução para o futuro.
 
 ### Preferência em linguagens
 linguagem de progamação que tenho facilicade:
