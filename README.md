@@ -2,24 +2,24 @@
 
  Seja muito bem-vindo a meu mundo, aqui vou posta todos os meus trabalhos que estão em constante desenvolvimento.
 
-- 🔭 I am currently looking for a new job
-- 🌱 Always looking for new programming languages
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ### Preferência em linguagens
 linguagem de progamação que tenho facilicade:
 
-![C++](https://img.shields.io/badge/c++-%23008080.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%23ED8B00?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" wight="50" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" wight"50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" height="40" wight="50">
+ 
+</div>
+<!--[C++](https://img.shields.io/badge/c++-%23008080.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%23ED8B00?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
 Linguagem de marcação que tenho mais capacidade
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40" wight="50" >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" wight="50">
+</div>
  
 
 
