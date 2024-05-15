@@ -1,4 +1,4 @@
-### Olá! my name is italo 👋
+### Olá! 👋
 
  Seja muito bem-vindo a meu mundo, aqui vou posta todos os meus trabalhos que estão em constante desenvolvimento.
 
